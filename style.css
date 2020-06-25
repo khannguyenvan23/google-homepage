@@ -23,7 +23,7 @@ html, body {
     
 }
 .drop-bg {
-    background-image: url(//ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+    background-image: url(./images/i1_1967ca6a.png);
     -webkit-background-size: 528px 68px;
     background-size: 528px 68px;
     background-position: -132px -38px;
@@ -123,6 +123,9 @@ ul a {
     align-items: center;
     border: 1px solid #dfe1e5;
     
+}
+.search__form .i-sub:hover {
+    box-shadow: 10px 5px 5px red;
 }
 .search__form svg{
     font-size: 16px;
